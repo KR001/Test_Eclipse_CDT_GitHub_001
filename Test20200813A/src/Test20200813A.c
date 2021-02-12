@@ -14,5 +14,6 @@
 int main(void) {
 	puts("!!!Hello World!!!\n"); /* prints !!!Hello World!!! */
 	puts("Change after the project imported to Git"); /* prints !!!Hello World!!! */
+	puts("Change after cloned from GITHUB"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
