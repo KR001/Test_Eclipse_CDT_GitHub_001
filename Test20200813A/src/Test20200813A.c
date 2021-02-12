@@ -13,6 +13,6 @@
 
 int main(void) {
 	puts("!!!Hello World!!!\n"); /* prints !!!Hello World!!! */
-	puts("Change after the project inported to Git"); /* prints !!!Hello World!!! */
+	puts("Change after the project imported to Git"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
