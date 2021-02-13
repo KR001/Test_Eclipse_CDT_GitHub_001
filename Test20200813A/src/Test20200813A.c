@@ -16,5 +16,6 @@ int main(void) {
 	puts("Change after the project imported to Git"); /* prints !!!Hello World!!! */
 	puts("Change after cloned from GITHUB"); /* prints !!!Hello World!!! */
 	puts("Change after pulling into XPS8700 from GITHUB"); /* prints !!!Hello World!!! */
+	puts("Change after .gitignore was updated with .settings on Yoga940"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
