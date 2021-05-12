@@ -18,5 +18,6 @@ int main(void) {
 	puts("Change after pulling into XPS8700 from GITHUB"); /* prints !!!Hello World!!! */
 	puts("Change after .gitignore was updated with .settings on Yoga940"); /* prints !!!Hello World!!! */
 	puts("Change after installing and cloned to local (OneDrive Folder) using GitHub Desktop"); /* prints !!!Hello World!!! */
+	puts("Changed on 2021/5/11 21:40");
 	return EXIT_SUCCESS;
 }
